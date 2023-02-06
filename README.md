@@ -1,0 +1,2 @@
+# FullStackProject
+CICD, Docker, Github
